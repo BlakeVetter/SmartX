@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\emeris\\source\\repos\\SmartX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D95AA80-3F33-6CFC-017C-A43D3AD7B9BD}|..\\Smart.Shared\\Smart.Shared.csproj|c:\\users\\emeris\\source\\repos\\smart.shared\\telemetrypacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D95AA80-3F33-6CFC-017C-A43D3AD7B9BD}|..\\Smart.Shared\\Smart.Shared.csproj|c:\\users\\emeris\\source\\repos\\smart.shared\\deploymentnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -53,9 +56,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D95AA80-3F33-6CFC-017C-A43D3AD7B9BD}|..\\Smart.Shared\\Smart.Shared.csproj|c:\\users\\emeris\\source\\repos\\smart.shared\\smartmeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D95AA80-3F33-6CFC-017C-A43D3AD7B9BD}|..\\Smart.Shared\\Smart.Shared.csproj|c:\\users\\emeris\\source\\repos\\smart.shared\\telemetrypacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,11 +65,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DeploymentNode.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\DeploymentNode.cs",
               "RelativeDocumentMoniker": "..\\Smart.Shared\\DeploymentNode.cs",
@@ -77,25 +77,11 @@
               "RelativeToolTip": "..\\Smart.Shared\\DeploymentNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T13:28:05.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T13:28:05.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SensorCatergory.cs",
-              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\SensorCatergory.cs",
-              "RelativeDocumentMoniker": "..\\Smart.Shared\\SensorCatergory.cs",
-              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\SensorCatergory.cs",
-              "RelativeToolTip": "..\\Smart.Shared\\SensorCatergory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T13:17:07.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Register.razor",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Client\\Pages\\Register.razor",
               "RelativeDocumentMoniker": "SmartX.Client\\Pages\\Register.razor",
@@ -103,12 +89,11 @@
               "RelativeToolTip": "SmartX.Client\\Pages\\Register.razor",
               "ViewState": "AgIAAMAAAAAAAAAAAAAYwMgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T13:34:48.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T13:34:48.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SensorApiClient.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Client\\Services\\SensorApiClient.cs",
               "RelativeDocumentMoniker": "SmartX.Client\\Services\\SensorApiClient.cs",
@@ -120,7 +105,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "TelemetryPacket.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\TelemetryPacket.cs",
+              "RelativeDocumentMoniker": "..\\Smart.Shared\\TelemetryPacket.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\TelemetryPacket.cs",
+              "RelativeToolTip": "..\\Smart.Shared\\TelemetryPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:26:50.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorCatergory.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\SensorCatergory.cs",
+              "RelativeDocumentMoniker": "..\\Smart.Shared\\SensorCatergory.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\SensorCatergory.cs",
+              "RelativeToolTip": "..\\Smart.Shared\\SensorCatergory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:17:07.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Api\\Program.cs",
               "RelativeDocumentMoniker": "SmartX.Api\\Program.cs",
@@ -132,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Client\\Program.cs",
               "RelativeDocumentMoniker": "SmartX.Client\\Program.cs",
@@ -144,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Client\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SmartX.Client\\Properties\\launchSettings.json",
@@ -156,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SmartX.Api\\Properties\\launchSettings.json",
@@ -168,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Client\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "SmartX.Client\\Layout\\NavMenu.razor",
@@ -180,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Dashboard.razor",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Client\\Pages\\Dashboard.razor",
               "RelativeDocumentMoniker": "SmartX.Client\\Pages\\Dashboard.razor",
@@ -192,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Client\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "SmartX.Client\\Pages\\Home.razor",
@@ -204,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SmartX.Client.csproj",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Client\\SmartX.Client.csproj",
               "RelativeDocumentMoniker": "SmartX.Client\\SmartX.Client.csproj",
@@ -216,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SensorRegistration.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\SensorRegistration.cs",
               "RelativeDocumentMoniker": "..\\Smart.Shared\\SensorRegistration.cs",
@@ -228,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SmartMeter.cs",
               "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\SmartMeter.cs",
               "RelativeDocumentMoniker": "..\\Smart.Shared\\SmartMeter.cs",
@@ -237,18 +247,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T13:27:28.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TelemetryPacket.cs",
-              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\TelemetryPacket.cs",
-              "RelativeDocumentMoniker": "..\\Smart.Shared\\TelemetryPacket.cs",
-              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Smart.Shared\\TelemetryPacket.cs",
-              "RelativeToolTip": "..\\Smart.Shared\\TelemetryPacket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T13:26:50.862Z"
             }
           ]
         }
