@@ -1,3 +1,5 @@
+PLEASE SEE SECOND BRANCH (main) FOR CODE!
+ 
  Smart-X IoT Mesh Ecosystem — Part 1
 
 A hybrid Internet of Things (IoT) telemetry ingestion platform built with .NET 10, ASP.NET Core Minimal API, and Blazor WebAssembly.
