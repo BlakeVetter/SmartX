@@ -1141,3 +1141,8 @@ C:\Users\emeris\source\repos\SmartX\SmartX.Client\obj\Debug\net10.0\compressed\3
 C:\Users\emeris\source\repos\SmartX\SmartX.Client\obj\Debug\net10.0\compressed\74jtbhelp0-{0}-mph4sm1exq-mph4sm1exq.gz
 C:\Users\emeris\source\repos\SmartX\SmartX.Client\obj\Debug\net10.0\compressed\ss1y0ndpxn-{0}-rj22sr8wid-rj22sr8wid.gz
 C:\Users\emeris\source\repos\SmartX\SmartX.Client\obj\Debug\net10.0\compressed\8qmbxpfxrx-{0}-bfm1uu08r9-bfm1uu08r9.gz
+C:\Users\emeris\Documents\GitHub\SmartX\SmartX.Client\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\emeris\Documents\GitHub\SmartX\SmartX.Client\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\emeris\Documents\GitHub\SmartX\SmartX.Client\obj\Debug\net10.0\SmartX.Client.dll
+C:\Users\emeris\Documents\GitHub\SmartX\SmartX.Client\obj\Debug\net10.0\refint\SmartX.Client.dll
+C:\Users\emeris\Documents\GitHub\SmartX\SmartX.Client\obj\Debug\net10.0\SmartX.Client.pdb
