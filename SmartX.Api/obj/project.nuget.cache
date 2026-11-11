@@ -1,11 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "cMa3i5Lh0sk=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\emeris\\source\\repos\\SmartX\\SmartX.Api\\SmartX.Api.csproj",
+  "dgSpecHash": "Fvk1O1Ec9VI=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\emeris\\Documents\\GitHub\\SmartX\\SmartX.Api\\SmartX.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emeris\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
     "C:\\Users\\emeris\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\emeris\\Documents\\GitHub\\Smart.Shared\\Smart.Shared.csproj'. Check that the project reference is valid and that the project file exists.",
+      "projectPath": "C:\\Users\\emeris\\Documents\\GitHub\\SmartX\\SmartX.Api\\SmartX.Api.csproj",
+      "filePath": "C:\\Users\\emeris\\Documents\\GitHub\\SmartX\\SmartX.Api\\SmartX.Api.csproj",
+      "libraryId": "C:\\Users\\emeris\\Documents\\GitHub\\Smart.Shared\\Smart.Shared.csproj",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
